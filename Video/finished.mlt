@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="C" version="6.21.0" title="Shotcut version 20.04.12" producer="main_bin">
+  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="1920" display_aspect_den="1080" frame_rate_num="30000" frame_rate_den="1001" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="00:00:13.080">
+    <property name="length">00:00:13.113</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/11_added_path_and_selecting_aura.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e1a7193535e162ee27c070d0b9d6623a</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">11_added_path_and_selecting_aura.mp4</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:26.059">
+    <property name="length">00:00:26.093</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/12_changed_selecting_aurora_color.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c041e4f5de10fec065a6ad6dc11c496b</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">12_changed_selecting_aurora_color.mp4</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:24.358">
+    <property name="length">00:00:24.391</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/13_last_change_in_cursor_color.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">83715a4f634623cad064ab49fc90277a</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">13_last_change_in_cursor_color.mp4</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="00:00:12.412">
+    <property name="length">00:00:12.446</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/15extra_obnoxious_white_next_target_path.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T15:16:15</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c91833ecd6a3cdd7162edf6abb5e9a88</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+  </producer>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:13.080"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:26.059"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:24.358"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:12.412"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:03:22.356"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:02:43.477">
+    <property name="length">00:02:43.510</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:02:43.477"/>
+  </playlist>
+  <producer id="producer5" in="00:00:00.000" out="00:00:24.358">
+    <property name="length">00:00:24.391</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/13_last_change_in_cursor_color.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">83715a4f634623cad064ab49fc90277a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">13_last_change_in_cursor_color.mp4</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="00:00:14.181">
+    <property name="length">00:00:14.214</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/1_initial_change_in_colors_and_sound.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="shotcut:hash">ef06596b2272237d61207c4dfd695efc</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">1_initial_change_in_colors_and_sound.mkv</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="00:00:14.181">
+    <property name="length">00:00:14.214</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/1_initial_change_in_colors_and_sound.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="shotcut:hash">ef06596b2272237d61207c4dfd695efc</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">1_initial_change_in_colors_and_sound.mkv</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="00:00:14.314">
+    <property name="length">00:00:14.348</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/2_a_further_change_in_colors.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="shotcut:hash">3160c1773fffd4c6254eb2f85d059961</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2_a_further_change_in_colors.mkv</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="00:00:19.353">
+    <property name="length">00:00:19.386</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/3_cursor_goes_to_center_and_change_in_background.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="shotcut:hash">9c8dfee16c31b98491e12da1602e78b5</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">3_cursor_goes_to_center_and_change_in_background.mkv</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="00:00:14.281">
+    <property name="length">00:00:14.314</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/4_showing_next_target.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">dc99d374848bdc24daa77e3b30f01257</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">4_showing_next_target.mp4</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="00:00:13.780">
+    <property name="length">00:00:13.814</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/5_change_in_current_and_next_target_colors.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">48254187075154835c28ba3695e63b65</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">5_change_in_current_and_next_target_colors.mp4</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="00:00:15.582">
+    <property name="length">00:00:15.616</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/6_a_chane_in_cursor.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fabf4dd532cb02afaa9cfacfb10b4e2a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">6_a_chane_in_cursor.mp4</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="00:00:14.781">
+    <property name="length">00:00:14.815</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/6_b_chane_in_cursor.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e0915afd0ef591de6edc8f065d584ace</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">6_b_chane_in_cursor.mp4</property>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="00:00:30.397">
+    <property name="length">00:00:30.430</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/8_small_change_in_cursor.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7a2a0e8c70dad341cd4831018ddbe5ba</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">8_small_change_in_cursor.mp4</property>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="00:00:55.923">
+    <property name="length">00:00:55.956</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/7_d_tweaking_fitts_backdrop_box.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b13f79485670142f006ab5060abfb0bc</property>
+    <property name="shotcut:caption">7_d_tweaking_fitts_backdrop_box.mp4</property>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="00:00:17.618">
+    <property name="length">00:00:17.651</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/10_added_bubble_cursor.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7ed56724f67823c3ddde07c5bf213224</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">10_added_bubble_cursor.mp4</property>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="00:00:17.618">
+    <property name="length">00:00:17.651</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/10_added_bubble_cursor.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7ed56724f67823c3ddde07c5bf213224</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">10_added_bubble_cursor.mp4</property>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="00:00:17.618">
+    <property name="length">00:00:17.651</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/10_added_bubble_cursor.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7ed56724f67823c3ddde07c5bf213224</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">10_added_bubble_cursor.mp4</property>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="00:00:17.618">
+    <property name="length">00:00:17.651</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/10_added_bubble_cursor.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7ed56724f67823c3ddde07c5bf213224</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">10_added_bubble_cursor.mp4</property>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="00:00:12.412">
+    <property name="length">00:00:12.446</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/15extra_obnoxious_white_next_target_path.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T15:16:15</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c91833ecd6a3cdd7162edf6abb5e9a88</property>
+    <property name="shotcut:caption">15extra_obnoxious_white_next_target_path.mp4</property>
+  </producer>
+  <producer id="producer21" in="00:00:00.000" out="00:00:12.412">
+    <property name="length">00:00:12.446</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/15extra_obnoxious_white_next_target_path.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T15:16:15</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c91833ecd6a3cdd7162edf6abb5e9a88</property>
+    <property name="shotcut:caption">15extra_obnoxious_white_next_target_path.mp4</property>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="00:00:12.412">
+    <property name="length">00:00:12.446</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/15extra_obnoxious_white_next_target_path.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T15:16:15</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c91833ecd6a3cdd7162edf6abb5e9a88</property>
+    <property name="shotcut:caption">15extra_obnoxious_white_next_target_path.mp4</property>
+  </producer>
+  <producer id="producer23" in="00:00:00.000" out="00:00:12.412">
+    <property name="length">00:00:12.446</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/15extra_obnoxious_white_next_target_path.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T15:16:15</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c91833ecd6a3cdd7162edf6abb5e9a88</property>
+    <property name="shotcut:caption">15extra_obnoxious_white_next_target_path.mp4</property>
+  </producer>
+  <producer id="producer24" in="00:00:00.000" out="00:00:12.412">
+    <property name="length">00:00:12.446</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/15extra_obnoxious_white_next_target_path.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T15:16:15</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c91833ecd6a3cdd7162edf6abb5e9a88</property>
+    <property name="shotcut:caption">15extra_obnoxious_white_next_target_path.mp4</property>
+  </producer>
+  <producer id="producer25" in="00:00:00.000" out="00:00:12.412">
+    <property name="length">00:00:12.446</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/15extra_obnoxious_white_next_target_path.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T15:16:15</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c91833ecd6a3cdd7162edf6abb5e9a88</property>
+    <property name="shotcut:caption">15extra_obnoxious_white_next_target_path.mp4</property>
+  </producer>
+  <producer id="producer26" in="00:00:00.000" out="00:00:12.412">
+    <property name="length">00:00:12.446</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/15extra_obnoxious_white_next_target_path.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T15:16:15</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c91833ecd6a3cdd7162edf6abb5e9a88</property>
+    <property name="shotcut:caption">15extra_obnoxious_white_next_target_path.mp4</property>
+  </producer>
+  <producer id="producer27" in="00:00:00.000" out="00:00:13.080">
+    <property name="length">00:00:13.113</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/11_added_path_and_selecting_aura.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e1a7193535e162ee27c070d0b9d6623a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">11_added_path_and_selecting_aura.mp4</property>
+  </producer>
+  <producer id="producer28" in="00:00:00.000" out="00:00:24.358">
+    <property name="length">00:00:24.391</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/13_last_change_in_cursor_color.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">83715a4f634623cad064ab49fc90277a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">13_last_change_in_cursor_color.mp4</property>
+  </producer>
+  <producer id="producer29" in="00:00:00.000" out="00:00:24.358">
+    <property name="length">00:00:24.391</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/13_last_change_in_cursor_color.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">83715a4f634623cad064ab49fc90277a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">13_last_change_in_cursor_color.mp4</property>
+  </producer>
+  <producer id="producer30" in="00:00:00.000" out="00:00:24.358">
+    <property name="length">00:00:24.391</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/13_last_change_in_cursor_color.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">83715a4f634623cad064ab49fc90277a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">13_last_change_in_cursor_color.mp4</property>
+  </producer>
+  <producer id="producer31" in="00:00:00.000" out="00:00:24.358">
+    <property name="length">00:00:24.391</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/13_last_change_in_cursor_color.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">83715a4f634623cad064ab49fc90277a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">13_last_change_in_cursor_color.mp4</property>
+  </producer>
+  <producer id="producer32" in="00:00:00.000" out="00:00:24.358">
+    <property name="length">00:00:24.391</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/13_last_change_in_cursor_color.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">83715a4f634623cad064ab49fc90277a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">13_last_change_in_cursor_color.mp4</property>
+  </producer>
+  <producer id="producer33" in="00:00:00.000" out="00:00:26.059">
+    <property name="length">00:00:26.093</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/12_changed_selecting_aurora_color.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c041e4f5de10fec065a6ad6dc11c496b</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">12_changed_selecting_aurora_color.mp4</property>
+  </producer>
+  <producer id="producer34" in="00:00:00.000" out="00:00:24.358">
+    <property name="length">00:00:24.391</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/videos/13_last_change_in_cursor_color.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-22T15:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">83715a4f634623cad064ab49fc90277a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">13_last_change_in_cursor_color.mp4</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer5" in="00:00:02.703" out="00:00:06.673"/>
+    <blank length="00:00:00.067"/>
+    <entry producer="producer6" in="00:00:01.635" out="00:00:10.611"/>
+    <entry producer="producer7" in="00:00:01.635" out="00:00:11.778"/>
+    <entry producer="producer8" in="00:00:01.902" out="00:00:08.976"/>
+    <entry producer="producer9" in="00:00:01.134" out="00:00:10.944"/>
+    <entry producer="producer10" in="00:00:01.702" out="00:00:09.810"/>
+    <entry producer="producer11" in="00:00:02.169" out="00:00:10.944"/>
+    <entry producer="producer12" in="00:00:01.401" out="00:00:05.539"/>
+    <entry producer="producer13" in="00:00:02.402" out="00:00:04.371"/>
+    <entry producer="producer14" in="00:00:01.401" out="00:00:03.136"/>
+    <entry producer="producer15" in="00:00:18.352" out="00:00:24.491"/>
+    <entry producer="producer16" in="00:00:01.902" out="00:00:03.270"/>
+    <entry producer="producer17" in="00:00:03.303" out="00:00:08.642"/>
+    <entry producer="producer18" in="00:00:03.303" out="00:00:08.642"/>
+    <entry producer="producer19" in="00:00:08.675" out="00:00:10.344"/>
+    <entry producer="producer20" in="00:00:02.469" out="00:00:08.041"/>
+    <entry producer="producer21" in="00:00:02.469" out="00:00:08.041"/>
+    <entry producer="producer22" in="00:00:02.469" out="00:00:08.041"/>
+    <entry producer="producer23" in="00:00:02.469" out="00:00:08.041"/>
+    <entry producer="producer24" in="00:00:02.469" out="00:00:08.041"/>
+    <entry producer="producer25" in="00:00:02.469" out="00:00:08.041"/>
+    <entry producer="producer26" in="00:00:02.469" out="00:00:04.805"/>
+    <entry producer="producer27" in="00:00:02.636" out="00:00:11.445"/>
+    <entry producer="producer28" in="00:00:09.142" out="00:00:11.411"/>
+    <entry producer="producer29" in="00:00:09.142" out="00:00:11.411"/>
+    <entry producer="producer30" in="00:00:09.142" out="00:00:11.311"/>
+    <entry producer="producer31" in="00:00:09.142" out="00:00:11.411"/>
+    <entry producer="producer32" in="00:00:09.142" out="00:00:11.411"/>
+    <entry producer="producer33" in="00:00:03.170" out="00:00:18.552"/>
+    <entry producer="producer34" in="00:00:02.703" out="00:00:09.376"/>
+  </playlist>
+  <producer id="producer35" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer36" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer37" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer38" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer39" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer40" in="00:00:00.000" out="00:00:48.415">
+    <property name="length">00:00:48.448</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/voice_extraV2.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T19:41:27</property>
+    <property name="shotcut:hash">496e13d2fcf57db03686810ed176ac11</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">voice_extraV2.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer41" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer42" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer43" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer44" in="00:00:00.000" out="00:01:57.925">
+    <property name="length">00:01:57.958</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/voice_extra.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T19:17:27</property>
+    <property name="shotcut:hash">d54a868d9dc9014bb165b4685b07e38c</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">voice_extra.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer45" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer46" in="00:00:00.000" out="00:01:57.925">
+    <property name="length">00:01:57.958</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/voice_extra.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T19:17:27</property>
+    <property name="shotcut:hash">d54a868d9dc9014bb165b4685b07e38c</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">voice_extra.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer47" in="00:00:00.000" out="00:01:57.925">
+    <property name="length">00:01:57.958</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/voice_extra.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T19:17:27</property>
+    <property name="shotcut:hash">d54a868d9dc9014bb165b4685b07e38c</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">voice_extra.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer48" in="00:00:00.000" out="00:01:57.925">
+    <property name="length">00:01:57.958</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/Desktop/IST/IPM/BakeOff2/IPM_BakeOff_2/Video/voice_extra.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T19:17:27</property>
+    <property name="shotcut:hash">d54a868d9dc9014bb165b4685b07e38c</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">voice_extra.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer49" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer50" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer51" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer52" in="00:00:00.000" out="00:03:22.356">
+    <property name="length">00:03:22.389</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/andre/2020-04-24 19-27-09.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-24T18:30:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ebff0af10a6f99bc7be284e8ecd73d</property>
+    <property name="shotcut:caption">2020-04-24 19-27-09.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="producer35" in="00:00:04.771" out="00:00:08.809"/>
+    <entry producer="producer36" in="00:00:16.483" out="00:00:32.032"/>
+    <entry producer="producer37" in="00:00:50.117" out="00:01:00.968"/>
+    <entry producer="producer38" in="00:01:03.570" out="00:01:13.313"/>
+    <entry producer="producer39" in="00:01:17.851" out="00:01:26.426"/>
+    <entry producer="producer40" in="00:00:42.476" out="00:00:47.014"/>
+    <blank length="00:00:00.434"/>
+    <entry producer="producer41" in="00:01:33.066" out="00:01:37.404"/>
+    <blank length="00:00:01.902"/>
+    <entry producer="producer42" in="00:01:38.238" out="00:01:39.339"/>
+    <entry producer="producer43" in="00:01:39.373" out="00:01:39.406"/>
+    <blank length="00:00:03.704"/>
+    <entry producer="producer44" in="00:00:19.486" out="00:00:25.626"/>
+    <entry producer="producer45" in="00:01:46.880" out="00:02:00.701"/>
+    <entry producer="producer46" in="00:00:26.460" out="00:00:32.900"/>
+    <entry producer="producer47" in="00:00:44.011" out="00:00:54.555"/>
+    <entry producer="producer48" in="00:01:25.926" out="00:01:35.435"/>
+    <entry producer="producer49" in="00:02:01.602" out="00:02:10.978"/>
+    <entry producer="producer50" in="00:02:20.120" out="00:02:38.272"/>
+    <entry producer="producer51" in="00:02:43.944" out="00:02:53.020"/>
+    <entry producer="producer52" in="00:03:03.971" out="00:03:19.019"/>
+  </playlist>
+  <playlist id="playlist2">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A2</property>
+    <blank length="00:00:00.033"/>
+  </playlist>
+  <playlist id="playlist3">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A3</property>
+    <blank length="00:00:00.033"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 20.04.12" global_feed="1" in="00:00:00.000" out="00:02:43.477">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:trackHeight">22</property>
+    <property name="shotcut:scaleFactor">1.50746</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <track producer="playlist2" hide="video"/>
+    <track producer="playlist3" hide="video"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
